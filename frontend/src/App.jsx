@@ -12,7 +12,7 @@ function App() {
   };
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div>
       <h1>AI Market Predictor</h1>
 
       <button onClick={predictMarket}>
